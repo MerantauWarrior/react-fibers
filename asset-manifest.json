@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-fibers/static/css/main.23e98a48.css",
-    "main.js": "/react-fibers/static/js/main.6bbd4d9c.js",
+    "main.js": "/react-fibers/static/js/main.12fc4dda.js",
     "static/js/787.ddf55495.chunk.js": "/react-fibers/static/js/787.ddf55495.chunk.js",
     "index.html": "/react-fibers/index.html",
     "main.23e98a48.css.map": "/react-fibers/static/css/main.23e98a48.css.map",
-    "main.6bbd4d9c.js.map": "/react-fibers/static/js/main.6bbd4d9c.js.map",
+    "main.12fc4dda.js.map": "/react-fibers/static/js/main.12fc4dda.js.map",
     "787.ddf55495.chunk.js.map": "/react-fibers/static/js/787.ddf55495.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23e98a48.css",
-    "static/js/main.6bbd4d9c.js"
+    "static/js/main.12fc4dda.js"
   ]
 }
