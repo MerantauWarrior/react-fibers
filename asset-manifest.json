@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-fibers/static/css/main.9ead9f38.css",
-    "main.js": "/react-fibers/static/js/main.b8f44264.js",
+    "main.js": "/react-fibers/static/js/main.c6889300.js",
     "index.html": "/react-fibers/index.html",
     "main.9ead9f38.css.map": "/react-fibers/static/css/main.9ead9f38.css.map",
-    "main.b8f44264.js.map": "/react-fibers/static/js/main.b8f44264.js.map"
+    "main.c6889300.js.map": "/react-fibers/static/js/main.c6889300.js.map"
   },
   "entrypoints": [
     "static/css/main.9ead9f38.css",
-    "static/js/main.b8f44264.js"
+    "static/js/main.c6889300.js"
   ]
 }
