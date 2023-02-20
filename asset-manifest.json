@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ead9f38.css",
-    "main.js": "/static/js/main.a73ec5c4.js",
-    "index.html": "/index.html",
-    "main.9ead9f38.css.map": "/static/css/main.9ead9f38.css.map",
-    "main.a73ec5c4.js.map": "/static/js/main.a73ec5c4.js.map"
+    "main.css": "/react-fibers/static/css/main.9ead9f38.css",
+    "main.js": "/react-fibers/static/js/main.a73ec5c4.js",
+    "index.html": "/react-fibers/index.html",
+    "main.9ead9f38.css.map": "/react-fibers/static/css/main.9ead9f38.css.map",
+    "main.a73ec5c4.js.map": "/react-fibers/static/js/main.a73ec5c4.js.map"
   },
   "entrypoints": [
     "static/css/main.9ead9f38.css",
